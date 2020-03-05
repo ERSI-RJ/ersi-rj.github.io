@@ -1,0 +1,73 @@
+.logo_sbc{
+    color: white;
+    font-weight: bold;
+    font-size: 10px;
+    text-align: center;
+    margin-left: 10px;
+}
+
+.ersi_msg_bg{
+    background-color: rgba(74,140,219, 0.7);
+    font-size: 32px;
+}
+
+.ersi_data_bg{
+    background-color: rgba(74,140,219, 0.7);
+    font-size: 20px;
+}
+
+.esri_logo{
+    background-image:url(../img/ersi/ersi2020.png);
+    height: 420px;
+    height: 286px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 40%;
+    position: relative;
+}
+
+.ion_icon_size_128 {
+    font-size: 128px;
+}
+
+.ion_icon_size_64 {
+    font-size: 64px;
+}
+
+.ion_icon_size_32 {
+    font-size: 32px;
+}
+
+.organizacao{
+    background-image:url(../img/banner/organizacao.png)
+}
+
+.programacao{
+    background-image:url(../img/banner/calendar.jpg)
+}
+
+.artigo{
+    background-image:url(../img/banner/paper.jpg)
+}
+
+.minicurso{
+    background-image:url(../img/banner/minicurso.jpg)
+}
+
+.deadline{
+    background-image:url(../img/banner/deadline.jpg)
+}
+
+.inscricao{
+    background-image:url(../img/banner/inscricao.jpg)
+}
+
+.workshop{
+    background-image:url(../img/banner/workshop.png)
+}
+
+.fesi{
+    background-image:url(../img/banner/si.png)
+}
+
+ul.circulo {list-style-type: circle;}
